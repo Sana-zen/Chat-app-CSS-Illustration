@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL**: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/chat-app-css-illustration-html-css-only-responsive-abc123)
-- **Live Site**: [View Live](https://sana-zen.github.io/chat-app-css-illustration/)
+- **Solution URL**: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/illustration-of-css-chat-app-PdC3oI4Scg)
+- **Live Site**: [View Live](https://sana-zen.github.io/Chat-app-CSS-Illustration/)
 
 ## 🛠️ My Process
 
